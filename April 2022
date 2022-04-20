@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1,WILLOW HD
-http://208.86.19.13:81/731.stream/index.m3u8
-#EXTINF:-1,STAR SPORTS 3
-http://208.86.19.13:81/732.stream/index.m3u8
+#EXTINF:-1,Live 1
+http://103.135.133.3/hls/stream2.m3u8
+#EXTINF:-1,Live 2
+http://103.135.133.3/hls/stream3.m3u8
 #EXTINF:-1,B4U MUSIC
 http://208.86.19.13:81/733.stream/index.m3u8
 #EXTINF:-1, COLORS CINEPLEX HD
@@ -83,6 +83,8 @@ http://208.86.19.13:81/740.stream/index.m3u8
 http://208.86.19.13:81/905.stream/index.m3u8
 #EXTINF:-1,ZEE BANGLA
 http://208.86.19.13:81/906.stream/index.m3u8
+#EXTINF:-1,Star Jalsha
+http://103.135.133.3/hls/stream1.m3u8
 #EXTINF:-1,SANGEET BANGLA
 http://208.86.19.13:81/907.stream/index.m3u8
 #EXTINF:-1,STAR JALSA
